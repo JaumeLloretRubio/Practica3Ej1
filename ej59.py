@@ -1,3 +1,5 @@
+print('Jaume LLoret estuvo aquí')
+
 x = int(input('Edad persona 1: '))
 y = int(input('Edad persona 2: '))
 
